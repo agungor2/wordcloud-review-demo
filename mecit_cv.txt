@@ -1,0 +1,81 @@
+Abdulmecit Gungor
+Email: abdulmecitgungor@gmail.com • Phone:(317) 480-2387 •  Google Scholar 
+https://www.linkedin.com/in/abdulmecit-gungor Location: Indianapolis, Indiana, USA
+
+Data Scientist
+A highly motivated person with entrepreneurial skill sets, having a diversified background in statistical modelling, power electronics, and ML & data mining. I’ve been passionate about finding new methods and pushing the state of the art by creating new analytical models in a collaborative working environment.    
+TECHNICAL SKILLS
+Python, MATLAB, HTML, Labview, Mathematica, Simulink, Maple, C, C++, SQL, Weka
+Algorithms, Text Mining, System ML, Mathematical Modeling, Project Management
+
+WORK EXPERIENCE
+IBM Almaden Research Center, CA                                                                           May-Aug 2017
+Summer Research Intern in Storage System Group
+Exploring the Application of Non-Volatile Memory for Complex Data Structure – persistent (when there is power failure or system crash, retain the content directly from NVMe) Kd-Tree implementation of ANN, FLANN, Nanoflann (part of Kd-Tree implementation of approximate nearest neighborhood search), prefetchability (prefetching the pages) analyzer model building by using valgrind Lackey tool and testing it on 1.1 billion NYC taxi trip data
+Technology: Python, C++, persistent data programming, feature learning, instance based learning algorithms and their use cases with NVMe devices, big data analytics
+Purdue University, IN                                                                                      Aug 2016 - Present
+Graduate Teaching and Research Assistant
+Teaching and grading duties for Discrete Computational Structures (CSCI3400).
+Explanatory Study of Authorship Attribution - Author corpus created from GDELT, Feature extraction (Bag of words, n-grams, word2vec, paragraph2vec, nonoccurrence words, etc..) and CNN, Naïve Bayes, SVM classifier implementation to do authorship classification for a given piece of text.
+Allstate Insurance Claim Severity Prediction - Hot encoding, LSTM, density imputation is applied to categorical dataset, linear (Ridge, Lasso, Elastic Net) and non-linear (KNN, SVM, random forest, AdaBoost, XGBoost) are implemented, MCMC and linear stacking method are used to improve performance. 
+Seizure Prediction and Detection – FFT and PSD is used for pre-processing dataset, SVM, decision tree and random forest classification are implemented, SMOTE is applied to deal with imbalanced data issue
+Crime Location Prediction – Street-wise search on the location of crime and predicting hot spots, (RANSAC algo)
+Technology: Python, MATLAB, LSTM & hot encoding pre-processing, linear and non-linear regression and classification models
+Hong Kong University of Science and Technology                                           Nov 2015 – Aug 2016
+Research Assistant (Smart Urban Water Supply System)
+4x4 MIMO Test bed set-up and experiment in Labview, extracting large sets of data and do regression models with Matlab and Python, massive wireless communication and energy harvesting for internet of things, the theory and experimental set up for water pipe corrosion test by using acoustic waves, (http://smartuws.ust.hk/) 
+Technology: Python, MATLAB, Data Analysis, Statistical Models, Labview
+Université Joseph Fourier (France)                                                                            May-Aug 2015
+Computer Science & Electronics Engineering Intern                                            
+Alliance Francaise French Language A1 level passed, hands-on experience on physical computing systems with Matlab, C, C++, built a robot controlled by Arduino
+Optimization and numerical analysis of ETAS Model (BFGS, gradient descent, etc)
+Technology: MATLAB, C, Arduino coding
+City University of Hong Kong                                                                             May 2014-May 2015
+Research Assistant, Applied Power Electronics Lab                                   
+Conduct research in wireless power transmission systems for ‘Bionic Eye Project’, Mathematical modelling of 2-D and 3-D wireless transmission system for biomedical appliances and experimentally proof
+Informatics and Learning System for Data Analysis – PCA, LDA, Naïve Bayes Classification are implemented
+Technology: Python, MATLAB, Data Analysis, Mathematica, PCB design software, Simulink, Weka, SQL
+JEJU National University (Korea)                                                                                        Jun-Aug 2014
+Electronics Engineering Intern                                   
+Acoustic and Signal Processing with DSP and C Programming, built a loudspeaker
+Technology: MATLAB, C, Simulink, hardware design
+Transvaro (Istanbul)                                                                                              Jun-Aug 2013
+Electronics Engineering Intern                                  
+Worked on metal detector, thermal camera systems for military application
+Technology: PCB design, C, Simulink
+
+EDUCATION
+Purdue University (Indianapolis)                                                                   2016-2018
+M.Sc. in Computer Science    GPA:3.5                                                          
+Data Analysis - Analyzed/visualized data in various ways using iPython, Spyder and C++
+Current Project: word2vec training of 10 years’ fold of GDELT Book Corpus Data and do text mining to see whether the prediction of suitable words exists and is applicable in a sentence  
+City University of Hong Kong                                                                                 2013-2015
+B.E. in Electronics Engineering minor in Mathematics    GPA:3.2                                                
+Dissertation Topic: “Modelling and Analysis of 3-D Wireless Power Transmission System”
+Minor Thesis: “Mathematical Modelling of Two Strain Influenza” (SIR Model)
+Fatih University (Istanbul)                                                                             2010-2013
+B.E. in Electronics Engineering Double Major in Math and minor in Physics    GPA:3.96                                
+Fatih University Robotic Club President for one year
+
+SCHOLARSHIPS AND AWARDS
+2017 - Top3 nomination BlockChain and Cognitive Solutions, IBM US Wide Intern Bluehack Competition
+2016 - Best Designed Hack, Hackathons Ohio State University
+2016 - Purdue U. IN, Full Scholarship + Stipend for Master degree in Computer and Information Science
+2015 - Mobicon Scholarships for Academic Improvement
+2015 - Final Year Project Competition Award by Energy Institute (Hong Kong Branch)
+2015 - City University Final Year Project Champion
+2015 - The S. H. Ho Foundation Ltd. Student Project Winner Scholarship 
+2013 - Best Oracle User Awards in Hackathon Cyberport HK (Project name: Health Care Circle Mobile App)
+2013 - City U International Student Scholarship (Entrance award due to academic achievement in Fatih U)
+2010 - Fatih University Full Scholarship (Entrance award due to achievements in national university exam)
+2010 - Placed 800th among 2 million participants in national university entrance exam
+2008 - 1st rank in Physics Olympiad/ The Scientific and Technological Research C., Turkey
+*Cryptography monthly competition winner/(>10 times)The Scientific and Technological Research C., Turkey
+PUBLICATIONS
+Chow, J.P.W.; Chung, H.S.H.; Chun Sing Cheng; Gungor, A.; Sai Chun Tang; Chan, L.L.H., "Modeling and experimentation of loosely-coupled coils with transmitter having orthogonally-placed windings," in (ECCE), 2015 IEEE , vol., no., pp.4927-4934, 20-24 Sept. 2015 (Winning 2015 ECCE First Prize Oral Paper Award)    
+Gungor, A., 3-D Transmitting Coil Structure with one Parallel Transformer Coil, City U Library
+Gungor, A., Tow, S., & Zhang, S. (2014). Two Strain Influenza Model, City U Library
+ACTIVITIES
+3 star kayaking professional, water skiing and regular hiking, 2017’s target is to be a professional skydiver
+Robotic Clubs and Hackathons competition  
+
